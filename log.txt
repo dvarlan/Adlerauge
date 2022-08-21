@@ -1,0 +1,11 @@
+# Sample output
+
+[Log for user: User]
+----------
+
+[2022-08-21 15:36:02.075125] Current status [dnd]
+[2022-08-21 15:36:07.081870] Status changed from [dnd] to [online]
+[2022-08-21 15:36:12.083719] Status changed from [online] to [dnd]
+[2022-08-21 15:36:17.083274] Status changed from [dnd] to [idle]
+[2022-08-21 15:36:22.087043] Status changed from [idle] to [online]
+[2022-08-21 15:36:27.098359] Status changed from [online] to [dnd]
